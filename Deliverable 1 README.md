@@ -1,7 +1,7 @@
 # ITCS6100Project
 Deliverable 1 
 
-<ins>Bank Customer Dataset </ins>
+<ins>Bank Customer Dataset</ins>
 
 Business Problem: The bank has rates of customer churn. 
 
@@ -9,7 +9,7 @@ Research Objective and Questions: Use of descriptive analytics to understand wha
 
 
 
-<ins>Telecom Dataset </ins>
+<ins>Telecom Dataset</ins>
 
 Business Problem: Telecom customer churn rates. 
 
