@@ -1,16 +1,10 @@
 # ITCS6100Project
 Deliverable 1 
 
-<ins>Bank Customer Dataset</ins>
-
-Business Problem: The bank has rates of customer churn. 
-
-Research Objective and Questions: Use of descriptive analytics to understand what happened that lead to the bank customers leaving and why they did. 
+<ins>Business Problem, Opportunity or Domain Knowledge<ins>
+We are trying to identify what energy means to consume the most in order to invest in that sector the most. What provides the best capital expenditures in the energy sector. 
 
 
+<ins>Research objective<ins>
+The use of descriptive analysis. What are trends and relationships of energy sectors?
 
-<ins>Telecom Dataset</ins>
-
-Business Problem: Telecom customer churn rates. 
-
-Research Objective and Questions: Use of descriptive analytics to understand why the customer churn. 
