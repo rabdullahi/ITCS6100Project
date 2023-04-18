@@ -3,7 +3,7 @@ Deliverable 1
 
 <ins>Business Problem, Opportunity or Domain Knowledge<ins>
   
-We are trying to identify what energy means to consume the most in order to invest in that sector the most. What provides the best capital expenditures in the energy sector. 
+What energy production is the most with the least amount of consumption. CAPEX (Capital Expenditure) Optimization in what specific energy sector. 
 
 
 <ins>Research objective<ins>
