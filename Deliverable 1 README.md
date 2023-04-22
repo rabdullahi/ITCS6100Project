@@ -1,6 +1,6 @@
 Deliverable 1
 
-Business Problem or Opportunity, Domain Knowledge: We are trying to identify what energy means consumes the least in order to invest in that energy setor. What provides the best capital expenditures in the energy sector.
+Business Problem or Opportunity, Domain Knowledge: We are trying to identify what energy means consumes the least while producing the most over time in order to invest in that energy setor. What provides the best capital expenditures in the energy sector.
 
 Problem: As electricity consumption rises during peak hours, the energy grid is put under stress, which might lead to brownouts and blackouts. This has detrimental effects on public safety and healthcare institutions in addition to companies that depend on power to run.
 
