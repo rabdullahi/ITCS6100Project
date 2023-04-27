@@ -1,16 +1,10 @@
 **Deliverable 1**
 
 <ins>Team Members</ins>
-Srivarsha Ganguri
-Tarun Grandhi
-Saran Sai Chava
-Nikhila Chitneni
-Saldana Abdullahi
+Saldana Abdullahi, Saran Sai Chava, Srivarsha Ganguri, Saran Sai Chava, Tarun Grandhi, Nikhila Chitneni.
 
 <ins>Communication</ins>
-Whatsapp
-Gmail
-Canvas
+Whatsapp, Gmail, Canvas. 
 
 
 
