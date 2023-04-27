@@ -9,8 +9,7 @@ Whatsapp, Gmail, Canvas.
 
 
 
-This is the dataset we will be using:
-Hourly Electricity Consumption and Production
+This is the dataset we will be using: Hourly Electricity Consumption and Production
 https://www.kaggle.com/datasets/stefancomanita/hourly-electricity-consumption-and-production
 
 
