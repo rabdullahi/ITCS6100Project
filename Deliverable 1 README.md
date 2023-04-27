@@ -1,7 +1,7 @@
 **Deliverable 1**
 
 <ins>Team Members</ins>
-Saldana Abdullahi, Saran Sai Chava, Srivarsha Ganguri, Saran Sai Chava, Tarun Grandhi, Nikhila Chitneni.
+Saldana Abdullahi, Saran Sai Chava, Srivarsha Ganguri, Tarun Grandhi, Nikhila Chitneni.
 
 <ins>Communication</ins>
 Whatsapp, Gmail, Canvas. 
