@@ -10,6 +10,13 @@ Whatsapp, Gmail, Canvas.
 
 
 
+
+
+
+
+
+
+
 **Business Problem or Opportunity, Domain Knowledge:** We are trying to identify what energy means consumes the least while producing the most over time in order to invest in that energy sector. What provides the best capital expenditures in the energy sector.
 
 **Problem:** As electricity consumption rises during peak hours, the energy grid is put under stress, which might lead to brownouts and blackouts. This has detrimental effects on public safety and healthcare institutions in addition to companies that depend on power to run.
@@ -25,17 +32,3 @@ Romania could transition to a more sustainable energy future by understanding th
 **Descriptive Analytic Questions:** How does the hourly electricity consumption vary between weekdays and weekends? What is the average hourly electricity production by each production type in Romania? Predictive Analytic Questions: Can we predict the peak and off-peak electricity consumption hours for the next month in Romania? Can we predict the hourly electricity consumption in Romania for the next month?
 
 
-
-
-
-Team Members:
-Srivarsha Ganguri
-Tarun Grandhi
-Saran Sai Chava
-Nikhila Chitneni
-Saldana Abdullahi
-
-Communication:
-Whatsapp
-Gmail
-Canvas
