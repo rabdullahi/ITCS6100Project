@@ -1,6 +1,6 @@
 **Deliverable 2**
 
-
+[Link to Document](https://github.com/rabdullahi/ITCS6100Project/files/11349142/BDA_Deliverable_2.pdf)
 
 **Data Preparation:**
 
@@ -47,6 +47,7 @@ Pairplot to plot the pairwise relationship between two different variables.
 **Data Visualization:**
 
 
+<img width="809" alt="image10" src="https://user-images.githubusercontent.com/65207620/235033140-7df0e77a-ed37-4e0a-99e6-a88ab5c558af.png">
 <img width="805" alt="image5" src="https://user-images.githubusercontent.com/65207620/235000517-a8e99aad-0e34-4341-b715-82d9278365d3.png">
 
 The visualizations provide insightful information about the distribution of production which displays a normal distribution. 
@@ -55,5 +56,15 @@ The visualizations provide insightful information about the distribution of prod
 
 The visualization shows the differences of the two energy types: Coal and Oil & Gas when associated with Production over a period of time. 
 <img width="797" alt="image9" src="https://user-images.githubusercontent.com/65207620/235000930-b76601a6-198f-4481-ba9e-4d7cc958a304.png">
+
+
+**Dashboard**
+
+[Link to Dashboard](https://us-east-1.quicksight.aws.amazon.com/sn/accounts/502071998031/dashboards/4bd6c108-9c1e-47de-8990-3a1049195a18?directory_alias=schava)
+![image5 (1)](https://user-images.githubusercontent.com/65207620/235033411-b401043d-07ac-4ae5-b549-1ef50dbe7241.png)
+
+
+
+
 
 
